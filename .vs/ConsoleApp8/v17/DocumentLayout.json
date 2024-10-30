@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4568BEAD-32F1-4704-AD26-99672AF67EFD}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\asus\\source\\repos\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4568BEAD-32F1-4704-AD26-99672AF67EFD}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp8\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp8\\core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|solutionrelative:core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp8\\core\\data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|solutionrelative:core\\data\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp8\\core\\data\\models\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|solutionrelative:core\\data\\models\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp8\\core\\data\\helpers\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8AE363-9132-4053-8415-A138AD347CE8}|Core\\Core.csproj|solutionrelative:core\\data\\helpers\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Data\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Core\\Data\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Data\\Models\\Country.cs",
+              "RelativeToolTip": "Core\\Data\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:17:57.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Data\\Models\\Planet.cs",
+              "RelativeDocumentMoniker": "Core\\Data\\Models\\Planet.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Data\\Models\\Planet.cs",
+              "RelativeToolTip": "Core\\Data\\Models\\Planet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:17:43.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Data\\Helpers\\Enum.cs",
+              "RelativeDocumentMoniker": "Core\\Data\\Helpers\\Enum.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Data\\Helpers\\Enum.cs",
+              "RelativeToolTip": "Core\\Data\\Helpers\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:16:51.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Core\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:16:13.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:13:46.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp8\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T04:15:10.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
